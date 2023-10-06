@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "218828725526",
+    "firebase_url": "https://hon-audit-48a6d.firebaseio.com",
+    "project_id": "hon-audit-48a6d",
+    "storage_bucket": "hon-audit-48a6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218828725526:android:efb449eb9f48daf1e58437",
+        "android_client_info": {
+          "package_name": "com.example.atmconsultoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218828725526-pgfu1npr3rku1dpd19hnt1nb7s1rmv9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atmconsultoria",
+            "certificate_hash": "390746fab78c5a75057ca0386fc5099ce970a371"
+          }
+        },
+        {
+          "client_id": "218828725526-tfqh3tuksgpkoaru28k86cu8h37qsos8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnzXzYWKZgHB7-rCSQRjsUZtAfieGRIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218828725526-tfqh3tuksgpkoaru28k86cu8h37qsos8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218828725526:android:a039baf450e07252e58437",
+        "android_client_info": {
+          "package_name": "com.example.auditoria_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218828725526-tfqh3tuksgpkoaru28k86cu8h37qsos8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnzXzYWKZgHB7-rCSQRjsUZtAfieGRIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218828725526-tfqh3tuksgpkoaru28k86cu8h37qsos8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218828725526:android:d40c35b2323ac1ace58437",
+        "android_client_info": {
+          "package_name": "com.example.honeywell_auditoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218828725526-1rb2sisdairednb20k2j79j53ogkfnp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.honeywell_auditoria",
+            "certificate_hash": "503da431144e9023ac4383830cb74d0486f1c53b"
+          }
+        },
+        {
+          "client_id": "218828725526-tfqh3tuksgpkoaru28k86cu8h37qsos8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBnzXzYWKZgHB7-rCSQRjsUZtAfieGRIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218828725526-tfqh3tuksgpkoaru28k86cu8h37qsos8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
